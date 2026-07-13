@@ -1,5 +1,4 @@
 import React from 'react'
-import NavigationBar from './NavBar'
 import NavBar from './NavBar'
 
 const AddDonor = () => {

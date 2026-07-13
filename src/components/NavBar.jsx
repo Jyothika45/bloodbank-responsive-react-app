@@ -33,6 +33,9 @@ const NavBar = () => {
 
 
 
+              <Link className="nav-link" to="/view">
+                View Donor
+              </Link>
 
 
 
